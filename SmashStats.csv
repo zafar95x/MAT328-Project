@@ -1,0 +1,88 @@
+﻿character,weight,full_hop ,short_hop ,air_hop ,grab_range,dash_speed,run_speed,quickest_move,2nd_quickest_move,projectile(s),series
+Banjo & Kazooie,106,,,,13.2,1.68,2.18,up_smash,up_air,yes,Ind.
+Bayonetta,81,39,21.35,42,12.5,1.936,1.76,up_b,front_air,yes,Ind.
+Bowser,135,33,15.7,32.61,20,2.255,1.971,up_b,side_b ,yes,Super Mario
+Bowser Jr.,108,34.4,16.59,34.4,18,1.76,1.566,up_smash,up_air,yes,Super Mario
+Byleth,97,,,,12.3,1.8,1.43,neutral_air,up_b,yes,Fire Emblem
+Captain Falcon,104,37.31,17.98,37.31,13,1.98,2.552,neutral_air,back_air,no,Ind.
+Charizard,116,32,15.43,36,21.4,2.288,2.2,up_smash,up_b,yes,Pokemon
+Chrom,95,30.97,13,28,14.2,2.2,2.145,up_air,neutral_air,no,Fire Emblem
+Cloud,100,32.5,17,32.5,12,2.145,2.167,up_b,neutral_air,yes,Final Fantasy VII
+Corrin,98,33,16,31,11.8,1.892,1.595,neutral_air,up_air,yes,Fire Emblem
+Daisy,89,30.03,14.5,30.03,12,1.826,1.595,up_b,neutral_air,yes,Super Mario
+Dark Pit,96,31,14.96,31,13,2.09,1.828,up_smash,neutral_air,yes,Kid Icarus
+Dark Samus,108,37,18,37,42.2,1.87,1.654,up_b,up_air,yes,Metroid 
+Diddy Kong,90,41.21,19.9,41.21,11.5,2.09,2.006,up_smash,back_air,yes,Donkey Kong
+Donkey Kong,127,34,17.3,35.5,19.5,2.09,1.873,up_b,up_air,no,Donkey Kong
+Dr. Mario,98,30.8805,17.54,36.33,12,1.5375712,1.397792,up_b,neutral_air,yes,Super Mario
+Duck Hunt,86,34,16.48,33.8,14.5,1.76,1.793,neutral_air,front_air,yes,Ind.
+Falco,82,50.51,17.34,50.51,12,2.035,1.619,neutral_air,up_smash,yes,Star Fox
+Fox,77,35,16.4,37,11,2.09,2.402,down_b,neutral_air,yes,Star Fox
+Ganondorf,118,25.49,12.24,26,14,1.87,1.34,neutral_air,up_air,no,Zelda
+Greninja,88,46,22.11,46,18.5,2.178,2.288,back_air,up_air,yes,Pokemon
+Hero,101,,,,10.3,1.9,1.84,up_b,up_air,no,Ind.
+Ice Climbers,92,34.69,16.75,34.69,10,1.68,1.53,neutral_air,up_air,yes,Ind.
+Ike,107,29.9,16,31,11.5,1.815,1.507,back_air,neutral_air,no,Fire Emblem
+Incineroar,116,31.6,14.4,32.8,16,1.716,1.18,neutral_air,back_air,no,Pokemon
+Inkling,94,33,17.54,36.33,12,2.118,1.925,neutral_air,back_air,yes,Ind.
+Isabelle,88,32.5,15.69,32.5,19,1.815,1.48,neutral_air,up_air,no,Animal Crossing
+Ivysaur,96,32.25,15.58,32.25,23,1.903,1.595,neutral_air,down_air,yes,Pokemon
+Jigglypuff,68,19.79,11.26,19.79,12,1.65,1.271,down_b,neutral_air,no,Pokemon
+Joker,93,,,,12.3,1.9,2.06,up_air,up_smash,yes,Ind.
+Ken,103,26,15,29.5,11.6,1.936,1.76,up_b,up_air,yes,Street Fighter
+King Dedede,127,32.85,16.02,32.85,17,1.815,1.496,neutral_air,up_air,yes,Kirby
+King K. Rool,133,33,13.5,32.61,20,1.936,1.485,up_smash,neutral_air,yes,Donkey Kong
+Kirby,79,25.37,12.24,22,12.5,1.9,1.727,back_air,up_smash,yes,Kirby
+Link,104,27.8,13.38,29,11,1.98,1.534,up_b,back_air,yes,Zelda
+Little Mac,87,26,12.53,26,12.9,2.365,2.464,up_b,neutral_air,no,Ind.
+Lucario,92,37.62,18.19,37.62,13.5,2.255,1.705,down_air,front_air,yes,Pokemon
+Lucas,94,29.41,13,44.13,22.9,1.815,1.65,neutral_air,front_air,yes,Earth Bound
+Lucina,90,33.66,16.26,33.66,14.5,2.255,1.964,up_b,up_air,no,Fire Emblem
+Luigi,97,44,19.98,41.31,29.8,1.815,1.65,neutral_air,up_air,yes,Super Mario
+Mario,98,36.33,17.54,36.33,12,1.936,1.76,up_b,neutral_air,yes,Super Mario
+Marth,90,33.66,16.26,33.66,14.5,2.255,1.964,up_b,up_air,no,Fire Emblem
+Mega Man,102,32.8,11.49,32.8,12.5,1.958,1.602,back_air,up_smash,yes,Ind.
+Meta Knight,80,32,13.92,28.93,11.5,2.211,2.09,down_air,up_smash,no,Kirby
+Mewtwo,79,31.11,17.5,57.35,14.3,2.255,2.255,up_smash,neutral_air,yes,Pokemon
+Mii Brawler,94,35,17,35.5,12,1.97,1.92,neutral_air,,yes,
+Mii Gunner,104,30.9,14.6,32.3,14.8,1.613,1.37,neutral_air,,yes,
+Mii Swordfighter,100,28.3,12.3,28.3,12,1.74,1.58,up_smash,,yes,
+Min Min,104,,,,40,1.9,1.55,up_smash,up_air,no,Ind.
+Mr. Game & Watch,75,27.51,13.26,27.51,12.5,1.98,1.679,up_b,down_b,yes,Ind.
+Mythra,92,,,,12,2.45,2.41,,,no,Xenoblade
+Ness,94,34.48,16.65,45.65,12,1.826,1.609,neutral_air,up_smash,yes,Earth Bound
+Olimar,79,33.5,16.19,33.5,23.6,1.606,1.617,neutral_air,up_air,yes,Ind.
+Pac-Man,95,34.1,16.48,34.1,28.2,1.87,1.672,up_b,neutral_air,yes,Ind.
+Palutena,91,35.9,17.3,35.9,13,2.035,2.077,neutral_air,back_air,yes,Kid Icarus
+Peach,89,30.03,14.5,30.03,12,1.826,1.595,up_b,neutral_air,yes,Super Mario
+Pichu,62,36.75,17.43,36.02,12,1.98,1.892,neutral_air,up_air,yes,Pokemon
+Pikachu,79,35.5,17.12,35.5,11.9,1.98,2.039,neutral_air,back_air,yes,Pokemon
+Piranha Plant,112,37.4,17.5,38.52,14.3,1.82,1.72,up_air,neutral_air,no,Super Mario
+Pit,96,31,14.96,31,13,2.09,1.828,up_smash,neutral_air,yes,Kid Icarus
+Pyra,98,,,,12,1.69,1.38,,,no,Xenoblade
+R.O.B.,106,38,18.38,38,14.4,2.002,1.725,front_air,up_air,yes,Ind.
+Richter,107,30,18,29,12,1.73,1.52,up_b,neutral_air,yes,Castlevania
+Ridley,107,34,14.2,32,16.5,1.8,2.2,neutral_air,up_smash,yes,Metroid
+Robin,95,33.21,16.02,33.21,13,1.815,1.265,up_b,neutral_air,yes,Fire Emblem
+Rosalina,82,40,19.37,40,14,2.035,1.795,up_smash,up_air,yes,Super Mario
+Roy,95,30.97,13,28,14.2,2.2,2.145,up_air,neutral_air,no,Fire Emblem
+Ryu,103,26,15,29.5,11.6,1.76,1.6,up_b,neutral_air,yes,Street Fighter
+Samus,108,37,18,37,42.2,1.87,1.654,up_b,up_air,yes,Metroid
+Sephiroth,79,,,,12,1.92,1.86,neutral_air,front_air,no,Final Fantasy VII
+Sheik,78,39,18.75,40,12.5,2.178,2.42,neutral_air,back_air,yes,Zelda
+Shulk,97,33.5,16.8,33.5,12.5,1.87,1.672,up_b,neutral_air,no,Xenoblade
+Simon,107,30,18,29,12,1.73,1.52,up_b,neutral_air,no,Castlevania
+Snake,106,21.62,13.69,34.07,15.5,1.76,1.595,down_air,back_air,yes,Ind.
+Sonic,86,35,16.89,35,12,2.31,3.85,front_air,neutral_air,no,Ind.
+Squirtle,75,35.35,17.03,35.35,14,1.936,1.76,neutral_air,front_air,yes,Pokemon
+Steve,92,,,,31.9,1.45,1.45,,,no,Ind.
+Terry,108,,,,13.7,,1.72,neutral_air,,no,Ind.
+Toon Link,91,33.8,16.32,33.8,28.2,1.914,1.906,up_b,neutral_air,yes,Zelda
+Villager,92,32.5,15.69,32.5,19,1.815,1.397,neutral_air,up_air,yes,Animal Crossing
+Wario,107,30.5,14.7,30.5,14,1.837,1.65,up_b,neutral_air,yes,Super Mario
+Wii Fit Trainer,96,35.6,17.18,35.6,11.5,2.024,1.866,up_b,back_air,yes,Ind.
+Wolf,92,32.02,15.38,30.71,12,2.09,1.54,neutral_air,up_smash,yes,Star Fox
+Yoshi,104,36.09,14.43,51.56,26,1.98,2.046,neutral_air,up_air,yes,Super Mario
+Young Link,88,33.66,16.26,33.66,29.5,2.09,1.749,neutral_air,up_air,yes,Zelda
+Zelda,85,31.55,15.24,31.55,15.3,1.958,1.43,up_b,up_smash,yes,Zelda
+Zero Suit Samus,80,44.5,21.35,44.2,37,2.42,2.31,up_b,up_air,yes,Metroid
